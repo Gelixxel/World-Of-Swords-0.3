@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="834de289-08dd-4d6a-8e3a-a190932caa62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animations test_4.0.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animations test_4.0.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Aspirhanoi_opti_test (1).prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Aspirhanoi_opti_test (1).prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fin De Quête =).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fin De Quête =).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Journal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Journal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/JournalVide.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/JournalVide.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/L01C BL3T.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/L01C BL3T.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LVLUP.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LVLUP.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Pillule Magique.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Pillule Magique.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Pilules.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Pilules.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/QuestWindow 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/QuestWindow 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/SuiviQuest.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/SuiviQuest.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Map.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Map.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/EnnemyAI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/EnnemyAI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Interraction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Interraction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Inventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Inventory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Items/Apple.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Items/Apple.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Items/Shield.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Items/Shield.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Items/Sword.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Items/Sword.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Itemscript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Itemscript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Loot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Loot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Quest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Quest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/QuestGiver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/QuestGiver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Inventory Sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Inventory Sprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/InventorySlot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Inventory UI/InventorySlot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Item Frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Item Frame.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/PaPiMaMie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/PaPiMaMie.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Stickman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Stickman.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/airplane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/airplane.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/crossed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/crossed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/decide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/decide.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Heart.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Potion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Potion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/Interraction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnnemyAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Loot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/QuestGiver.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rfC4oGPo3MV8lNG2QBo7ZNOmXw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="834de289-08dd-4d6a-8e3a-a190932caa62" name="Default Changelist" comment="" />
+      <created>1619357573013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619357573013</updated>
+      <workItem from="1619357597234" duration="807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

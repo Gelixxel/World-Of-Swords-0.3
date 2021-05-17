@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9be4b619-8e92-4b47-b41a-4000816bbca0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.World-Of-Swords/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations test.blend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations test.blend.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animations test_4.0.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animations test_4.0.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Aspirhanoi_opti_test (1).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Aspirhanoi_opti_test (1).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fin De Quête =).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fin De Quête =).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Journal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Journal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/JournalVide.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/JournalVide.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/L01C BL3T.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/L01C BL3T.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LVLUP.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LVLUP.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Pillule Magique.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Pillule Magique.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Pilules.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Pilules.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/QuestWindow 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/QuestWindow 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/SuiviQuest.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/SuiviQuest.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Map.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Map.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ButtonQuest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ButtonQuest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/CheckPointChar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/CheckPointChar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Checkpoint.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Checkpoint.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/EnnemyAI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/EnnemyAI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Interraction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Interraction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Inventory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Inventory.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/InventoryUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/InventoryUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Items/Apple.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Items/Apple.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Items/Shield.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Items/Shield.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Items/Sword.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Items/Sword.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Itemscript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Itemscript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Loot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Loot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Mob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Mob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerCollision.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerCollision.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Quest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Quest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/QuestGiver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/QuestGiver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/RotateAnim.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/RotateAnim.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Sound.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Sound.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Sun.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Sun.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ThirdPersonCameraControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ThirdPersonCameraControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sound/BONJOUR.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sound/BONJOUR.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Affichage Inventaire.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Inventory UI/Affichage Inventaire.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Inventory Sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Inventory Sprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/InventorySlot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Inventory UI/InventorySlot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Item Frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Item Frame.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/PaPiMaMie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/PaPiMaMie.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Stickman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/Stickman.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/airplane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/airplane.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/crossed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/crossed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/decide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventory UI/decide.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Main Menu/MainMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Heart.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Potion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/UI Bars/Potion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Solo/ThirdPersonCameraControlSolo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/Shader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/3DText.shader" />
+        <option value="$PROJECT_DIR$/Assets/Script/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnnemyAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Loot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/EnnemyAI1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/Interraction1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/Loot1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/ButtonQuest1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/Quest1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/Joueur1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/QuestGiver1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/Spawner1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/InventorySlotSolo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Neutre/ThirdPersonCameraControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/ThirdPersonCameraControlSolo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Multi/QuestGiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/JoueurSolo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/LootSolo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/QuestGiverSolo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/InventorySolo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/EnnemyAISolo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Solo/SpawnerSolo.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rfscLRqIEoi2NdqV92hXcTCwkt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../build\World of Sword.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\enzo\Desktop\Sauvegarde\build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9be4b619-8e92-4b47-b41a-4000816bbca0" name="Default Changelist" comment="" />
+      <created>1619378559038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619378559038</updated>
+      <workItem from="1619378597426" duration="2867000" />
+      <workItem from="1619431788882" duration="192000" />
+      <workItem from="1619432043228" duration="15623000" />
+      <workItem from="1619529891532" duration="653000" />
+      <workItem from="1619596811931" duration="756000" />
+      <workItem from="1619601586094" duration="1202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

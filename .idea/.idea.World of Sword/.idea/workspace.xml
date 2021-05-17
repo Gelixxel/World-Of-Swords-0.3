@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b072866c-a888-4b14-841d-c7b271f02265" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/LowPolyOpenWorld/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Sun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/EnnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/RotateAnim.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/LowPolyOpenWorld/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/RotateAnim.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CheckPointChar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Checkpoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Sun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnnemyAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Test CC.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ThirdPersonCameraControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Test_CC.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oDRuTtgrlZez9eBVR6DiSsd7a5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Desktop/Project Alicization\World of Sword.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Portable-MSI\Desktop\Project Alicization" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b072866c-a888-4b14-841d-c7b271f02265" name="Default Changelist" comment="" />
+      <created>1612819406217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612819406217</updated>
+      <workItem from="1612819414782" duration="7726000" />
+      <workItem from="1612888255010" duration="1467000" />
+      <workItem from="1612973745896" duration="1419000" />
+      <workItem from="1613048252880" duration="3000" />
+      <workItem from="1613085769636" duration="2656000" />
+      <workItem from="1613088743905" duration="491000" />
+      <workItem from="1613089338116" duration="1119000" />
+      <workItem from="1613124989486" duration="3581000" />
+      <workItem from="1613223006312" duration="4652000" />
+      <workItem from="1613238189221" duration="3840000" />
+      <workItem from="1613269713109" duration="5827000" />
+      <workItem from="1613311028368" duration="1493000" />
+      <workItem from="1613315763534" duration="2163000" />
+      <workItem from="1613336558621" duration="2352000" />
+      <workItem from="1614009436220" duration="3365000" />
+      <workItem from="1614168018103" duration="129000" />
+      <workItem from="1614439818922" duration="3470000" />
+      <workItem from="1614507944715" duration="5998000" />
+      <workItem from="1614531043841" duration="2359000" />
+      <workItem from="1614534540946" duration="19000" />
+      <workItem from="1614536182387" duration="626000" />
+      <workItem from="1614548769821" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="113" y="0" key="SettingsEditor" timestamp="1613269741715">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="113" y="0" key="SettingsEditor/0.0.1360.768@0.0.1360.768" timestamp="1613269741715" />
+    <state x="259" y="0" key="search.everywhere.popup" timestamp="1613223773141">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="259" y="0" key="search.everywhere.popup/0.0.1360.768@0.0.1360.768" timestamp="1613223773141" />
+  </component>
+</project>
