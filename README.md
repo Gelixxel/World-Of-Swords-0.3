@@ -7,3 +7,5 @@ NTM
 J'vais git add ta grand mere la pute
 
 yo les chapeaux c cro bien
+
+Je suis dans ta maman :3 
